@@ -1,0 +1,15 @@
+C:\Users\balla\source\repos\16.02.2023_lecture\16.02.2023_lecture\bin\Debug\net6.0\16.02.2023_lecture.exe
+C:\Users\balla\source\repos\16.02.2023_lecture\16.02.2023_lecture\bin\Debug\net6.0\16.02.2023_lecture.deps.json
+C:\Users\balla\source\repos\16.02.2023_lecture\16.02.2023_lecture\bin\Debug\net6.0\16.02.2023_lecture.runtimeconfig.json
+C:\Users\balla\source\repos\16.02.2023_lecture\16.02.2023_lecture\bin\Debug\net6.0\16.02.2023_lecture.dll
+C:\Users\balla\source\repos\16.02.2023_lecture\16.02.2023_lecture\bin\Debug\net6.0\16.02.2023_lecture.pdb
+C:\Users\balla\source\repos\16.02.2023_lecture\16.02.2023_lecture\obj\Debug\net6.0\16.02.2023_lecture.csproj.AssemblyReference.cache
+C:\Users\balla\source\repos\16.02.2023_lecture\16.02.2023_lecture\obj\Debug\net6.0\16.02.2023_lecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\balla\source\repos\16.02.2023_lecture\16.02.2023_lecture\obj\Debug\net6.0\16.02.2023_lecture.AssemblyInfoInputs.cache
+C:\Users\balla\source\repos\16.02.2023_lecture\16.02.2023_lecture\obj\Debug\net6.0\16.02.2023_lecture.AssemblyInfo.cs
+C:\Users\balla\source\repos\16.02.2023_lecture\16.02.2023_lecture\obj\Debug\net6.0\16.02.2023_lecture.csproj.CoreCompileInputs.cache
+C:\Users\balla\source\repos\16.02.2023_lecture\16.02.2023_lecture\obj\Debug\net6.0\16.02.2023_lecture.dll
+C:\Users\balla\source\repos\16.02.2023_lecture\16.02.2023_lecture\obj\Debug\net6.0\refint\16.02.2023_lecture.dll
+C:\Users\balla\source\repos\16.02.2023_lecture\16.02.2023_lecture\obj\Debug\net6.0\16.02.2023_lecture.pdb
+C:\Users\balla\source\repos\16.02.2023_lecture\16.02.2023_lecture\obj\Debug\net6.0\16.02.2023_lecture.genruntimeconfig.cache
+C:\Users\balla\source\repos\16.02.2023_lecture\16.02.2023_lecture\obj\Debug\net6.0\ref\16.02.2023_lecture.dll
